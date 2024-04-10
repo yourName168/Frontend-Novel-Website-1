@@ -1,0 +1,25 @@
+
+.gia {
+    position: absolute;
+    top: 617px;
+    left: 109px;
+    width: 1200px;
+    height: 1010px;
+    font-family: var(--font-kumbh-sans);
+}
+
+
+
+.desktopChapter {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-white);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    height: 1871px;
+    text-align: left;
+    font-size: var(--font-size-sm);
+    color: var(--color-black);
+    font-family: var(--font-nunito);
+}
+

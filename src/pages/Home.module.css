@@ -1,0 +1,27 @@
+
+.body {
+    position: absolute;
+    top: 572px;
+    left: 0px;
+    background-color: #f8f8f8;
+    width: 1440px;
+    height: 2332px;
+    overflow: hidden;
+    font-size: var(--font-size-xs);
+    color: var(--color-black);
+}
+.bodyContainer {
+    position: absolute;
+    top: 33px;
+    left: 120px;
+    width: 1200px;
+    height: 2260px;
+}
+.bodyContainerRight {
+    position: absolute;
+    top: 0px;
+    left: 910px;
+    width: 290px;
+    height: 2014px;
+    font-size: var(--font-size-sm);
+}

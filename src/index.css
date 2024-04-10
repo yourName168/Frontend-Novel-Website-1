@@ -1,13 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@700&display=swap');
+
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+	margin: 0;
+	line-height: normal;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+:root {
+	/* fonts */
+	--font-nunito: Nunito;
+	--font-patua-one: 'Patua One';
+	--font-inter: Inter;
+	--font-kumbh-sans: 'Kumbh Sans';
+	--font-kufam: Kufam;
+	--font-roboto: Roboto;
+	/* font sizes */
+	--font-size-xs: 12px;
+	--font-size-sm: 14px;
+	--font-size-3xs: 10px;
+	--font-size-2xs: 11px;
+	--font-size-smi: 13px;
+	/* Colors */
+	--color-white: #fff;
+	--color-teal-100: #156d79;
+	--color-royalblue-100: #1877f2;
+	--color-black: #000;
+	--color-darkgray-100: #aaa7a7;
+
+	--color-gainsboro: #d9d9d9;
+	/* Border radiuses */
+	--br-8xs: 5px;
+	--br-7xs: 6px;
+
+
 }

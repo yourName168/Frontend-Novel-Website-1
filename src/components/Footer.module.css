@@ -1,0 +1,165 @@
+.fanpageCaTi {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 181.2px;
+}
+.groupChild {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fff;
+    width: 261px;
+    height: 70px;
+}
+.groupItem {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 55.9px;
+    height: 50px;
+    object-fit: cover;
+}
+.ptitTeam {
+    position: absolute;
+    top: 7px;
+    left: 64.86px;
+    font-size: 14px;
+    font-family: Pavanam;
+    color: #1449d3;
+    display: inline-block;
+    width: 67.1px;
+}
+.groupInner {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #d9d9d9;
+    border: 1px solid #a5a5a5;
+    box-sizing: border-box;
+    width: 109.6px;
+    height: 18px;
+}
+.uilfacebookIcon {
+    position: absolute;
+    top: 0px;
+    left: 4.47px;
+    width: 20.1px;
+    height: 18px;
+    overflow: hidden;
+}
+.theoDiTrang {
+    position: absolute;
+    top: 2px;
+    left: 27.96px;
+    display: inline-block;
+    width: 76px;
+}
+.rectangleContainer {
+    position: absolute;
+    top: 28px;
+    left: 60.39px;
+    width: 109.6px;
+    height: 18px;
+}
+.mTheoDi {
+    position: absolute;
+    top: 30px;
+    left: 182.28px;
+    display: inline-block;
+    width: 62.6px;
+}
+.rectangleGroup {
+    position: absolute;
+    top: 10px;
+    left: 11.18px;
+    width: 244.9px;
+    height: 50px;
+}
+.rectangleParent {
+    position: absolute;
+    top: 23px;
+    left: 0px;
+    width: 261px;
+    height: 70px;
+    font-size: 10px;
+    color: #000;
+}
+.div {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 261px;
+    height: 93px;
+}
+.thngBoT {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 900;
+    display: inline-block;
+    width: 273.7px;
+}
+.tonBTruyn {
+    position: absolute;
+    top: 25px;
+    left: 0px;
+    font-size: 12px;
+    display: inline-block;
+    width: 765px;
+}
+.div1 {
+    position: absolute;
+    top: 4px;
+    left: 300px;
+    width: 765px;
+    height: 89px;
+}
+.thngTin {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 14px;
+    font-weight: 900;
+}
+.designByOpit {
+    position: absolute;
+    top: 29px;
+    left: 0px;
+    white-space: pre-wrap;
+}
+.iuKhonS {
+    position: absolute;
+    top: 53px;
+    left: 0px;
+    color: #007bff;
+}
+.div2 {
+    position: absolute;
+    top: 0px;
+    left: 1093px;
+    width: 107px;
+    height: 69px;
+    overflow: hidden;
+    font-size: 12px;
+}
+.containerFooter {
+    position: absolute;
+    top: 27px;
+    left: 120px;
+    width: 1200px;
+    height: 93px;
+}
+.footer {
+    width: 100%;
+    position: relative;
+    background-color: #156d79;
+    height: 175px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 14px;
+    color: #fff;
+    font-family: Nunito;
+}
+

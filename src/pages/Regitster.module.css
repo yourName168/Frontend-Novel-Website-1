@@ -1,0 +1,174 @@
+.background {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+}
+
+.register {
+    position: absolute;
+    width: 45.25%;
+    top: 6%;
+    left: 27.5%;
+    font-size: 44px;
+    display: inline-block;
+    color: #252eff;
+}
+
+.fullName {
+    position: relative;
+    font-weight: 500;
+}
+
+.name {
+    position: absolute;
+    height: 6.33%;
+    width: 88%;
+    top: 26.33%;
+    right: 6%;
+    bottom: 67.33%;
+    left: 6%;
+    border-radius: var(--br-3xs);
+    border: 2px solid var(--color-mediumslateblue);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: var(--padding-3xs);
+}
+
+.email {
+    position: absolute;
+    height: 6.33%;
+    width: 88%;
+    top: 35.83%;
+    right: 6%;
+    bottom: 57.83%;
+    left: 6%;
+    border-radius: var(--br-3xs);
+    border: 2px solid var(--color-mediumslateblue);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-3xs);
+}
+
+.phone {
+    position: absolute;
+    height: 6.33%;
+    width: 88%;
+    top: 45.33%;
+    right: 6%;
+    bottom: 48.33%;
+    left: 6%;
+    border-radius: var(--br-3xs);
+    border: 2px solid var(--color-mediumslateblue);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-3xs);
+}
+
+.password {
+    position: absolute;
+    height: 6.33%;
+    width: 88%;
+    top: 54.83%;
+    right: 6%;
+    bottom: 38.83%;
+    left: 6%;
+    border-radius: var(--br-3xs);
+    border: 2px solid var(--color-mediumslateblue);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-3xs);
+}
+
+.confirmPassword {
+    position: absolute;
+    height: 6.33%;
+    width: 88%;
+    top: 64.33%;
+    right: 6%;
+    bottom: 29.33%;
+    left: 6%;
+    border-radius: var(--br-3xs);
+    border: 2px solid var(--color-mediumslateblue);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-3xs);
+}
+
+.registerBtn {
+    position: absolute;
+    height: 6.33%;
+    width: 88%;
+    top: 80.5%;
+    right: 6%;
+    bottom: 13.17%;
+    left: 6%;
+    border-radius: var(--br-xl);
+    background-color: #8b54ff;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-3xs);
+    box-sizing: border-box;
+    color: var(--color-white);
+}
+
+.signupBtn {
+    position: absolute;
+    height: 6.33%;
+    width: 88%;
+    top: 89.33%;
+    right: 6%;
+    bottom: 4.33%;
+    left: 6%;
+    border-radius: var(--br-xl);
+    background-color: var(--color-mediumslateblue);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-3xs);
+    box-sizing: border-box;
+    color: var(--color-white);
+}
+
+.registerLight1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+}
+
+.registerLight {
+    width: 100%;
+    position: relative;
+    height: 600px;
+    text-align: left;
+    font-size: var(--font-size-mini);
+    color: var(--color-gray);
+    font-family: var(--font-inter);
+}

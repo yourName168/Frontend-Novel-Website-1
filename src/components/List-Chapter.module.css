@@ -1,0 +1,234 @@
+.lcCpNhtChild {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: var(--br-7xs);
+    width: 897px;
+    height: 449px;
+}
+.p {
+    margin: 0;
+}
+.div {
+    position: absolute;
+    top: 49px;
+    left: 0px;
+    font-weight: 800;
+    display: inline-block;
+    width: 88.7px;
+    height: 18px;
+}
+.div1 {
+    position: absolute;
+    top: 147px;
+    left: 0px;
+    font-weight: 800;
+    display: inline-block;
+    width: 88.7px;
+    height: 18px;
+}
+.div2 {
+    position: absolute;
+    top: 196px;
+    left: 0px;
+    font-weight: 800;
+    display: inline-block;
+    width: 88.7px;
+    height: 18px;
+}
+.div3 {
+    position: absolute;
+    top: 98px;
+    left: 0px;
+    font-weight: 800;
+    display: inline-block;
+    width: 88.7px;
+    height: 18px;
+}
+.div4 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 800;
+    display: inline-block;
+    width: 88.7px;
+    height: 18px;
+}
+.div5 {
+    position: absolute;
+    top: 245px;
+    left: 0px;
+    font-weight: 800;
+    display: inline-block;
+    width: 88.7px;
+    height: 18px;
+}
+.ltXemList {
+    position: absolute;
+    top: 47px;
+    left: 0px;
+    width: 88.7px;
+    height: 263px;
+}
+.ltXem {
+    position: absolute;
+    top: 25px;
+    left: 729.83px;
+    width: 88.7px;
+    height: 310px;
+}
+.cpNht1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 800;
+    display: inline-block;
+    width: 93.8px;
+    height: 18px;
+}
+.div6 {
+    position: absolute;
+    top: 49px;
+    left: 0px;
+    font-weight: 800;
+    display: inline-block;
+    width: 93.8px;
+    height: 18px;
+}
+.div7 {
+    position: absolute;
+    top: 147px;
+    left: 0px;
+    font-weight: 800;
+    display: inline-block;
+    width: 93.8px;
+    height: 18px;
+}
+.div9 {
+    position: absolute;
+    top: 245px;
+    left: 0px;
+    font-weight: 800;
+    display: inline-block;
+    width: 93.8px;
+    height: 18px;
+}
+.div10 {
+    position: absolute;
+    top: 196px;
+    left: 0px;
+    font-weight: 800;
+    display: inline-block;
+    width: 93.8px;
+    height: 18px;
+}
+.div11 {
+    position: absolute;
+    top: 98px;
+    left: 0px;
+    font-weight: 800;
+    display: inline-block;
+    width: 93.8px;
+    height: 18px;
+}
+.cpNhtList {
+    position: absolute;
+    top: 52px;
+    left: 0px;
+    width: 93.8px;
+    height: 263px;
+    font-size: var(--font-size-xs);
+    color: var(--color-darkgray-100);
+}
+.cpNht {
+    position: absolute;
+    top: 25px;
+    left: 413.84px;
+    width: 93.8px;
+    height: 315px;
+    font-size: var(--font-size-sm);
+}
+.listChap {
+    position: absolute;
+    top: 53px;
+    left: 7.14px;
+    width: 93.8px;
+    height: 263px;
+}
+.alignLeftIcon {
+    position: absolute;
+    top: 0px;
+    left: 46.89px;
+    width: 24.5px;
+    height: 24px;
+    overflow: hidden;
+}
+.tp {
+    position: absolute;
+    top: 4px;
+    left: 0px;
+    font-weight: 800;
+    display: inline-block;
+    width: 26.5px;
+    height: 15px;
+}
+.frameIcon {
+    position: absolute;
+    top: 2px;
+    left: 30.58px;
+    width: 16.3px;
+    height: 18px;
+    overflow: hidden;
+}
+.alignLeftParent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 71.4px;
+    height: 24px;
+    font-size: var(--font-size-sm);
+}
+.lc {
+    position: absolute;
+    top: 24px;
+    left: 106.01px;
+    width: 100.9px;
+    height: 316px;
+}
+.xemThmChild {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: var(--br-7xs);
+    background-color: #fff;
+    border: 1px solid #9d9494;
+    box-sizing: border-box;
+    width: 110.1px;
+    height: 34px;
+}
+.xemThm1 {
+    position: absolute;
+    top: 10px;
+    left: 27.52px;
+    font-weight: 800;
+    display: inline-block;
+    width: 72.4px;
+    height: 14px;
+}
+.xemThm {
+    position: absolute;
+    top: 391px;
+    left: 380.21px;
+    width: 110.1px;
+    height: 34px;
+}
+.lcCpNht {
+    width: 100%;
+    position: relative;
+    height: 449px;
+    text-align: left;
+    font-size: var(--font-size-xs);
+    color: var(--color-black);
+    font-family: var(--font-nunito);
+}
+

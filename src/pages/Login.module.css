@@ -1,0 +1,165 @@
+.background {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 10px;
+    background-color: var(--color-white);
+}
+.ngNhp {
+    position: absolute;
+    height: 13.25%;
+    top: 6.5%;
+    left: calc(50% - 116px);
+    font-size: 44px;
+    display: inline-block;
+    color: var(--color-mediumblue);
+    width: 233px;
+}
+.loginButton {
+    position: absolute;
+    height: 9%;
+    width: 24.24%;
+    top: 65%;
+    right: 23.48%;
+    bottom: 26%;
+    left: 52.27%;
+    border-radius: var(--br-xl);
+    background-color: var(--color-mediumblue);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-3xs);
+    box-sizing: border-box;
+}
+.hy {
+    position: relative;
+    font-weight: 500;
+}
+.loginButton1 {
+    position: absolute;
+    height: 9.5%;
+    width: 16.29%;
+    top: 65%;
+    right: 4.17%;
+    bottom: 25.5%;
+    left: 79.55%;
+    border-radius: var(--br-xl);
+    background-color: var(--color-mediumblue);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-3xs);
+    box-sizing: border-box;
+}
+.passwordFill {
+    position: absolute;
+    height: 10%;
+    width: 87.99%;
+    top: 45%;
+    right: 6.01%;
+    bottom: 45%;
+    left: 6%;
+    border-radius: var(--br-xl);
+    border: 2px solid var(--color-mediumslateblue);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: var(--padding-3xs);
+    color: var(--color-gray);
+}
+.usernameFill {
+    position: absolute;
+    height: 10%;
+    width: 87.99%;
+    top: 30.75%;
+    right: 6.01%;
+    bottom: 59.25%;
+    left: 6%;
+    border-radius: var(--br-xl);
+    border: 2px solid var(--color-mediumslateblue);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: var(--padding-3xs);
+    color: var(--color-gray);
+}
+.div {
+    position: absolute;
+    top: 0px;
+    left: 64px;
+    font-weight: 500;
+    display: inline-block;
+    width: 6px;
+}
+.qunMtKhu {
+    position: absolute;
+    top: 0px;
+    left: 75px;
+    font-weight: 500;
+}
+.ngK {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 500;
+}
+.parent {
+    position: absolute;
+    top: 270px;
+    left: 42px;
+    width: 184px;
+    height: 18px;
+    color: var(--color-black);
+}
+.loginLightChild {
+    position: absolute;
+    top: 316.5px;
+    left: calc(50% - 222.5px);
+    border-top: 1px solid var(--color-mediumslateblue);
+    box-sizing: border-box;
+    width: 445px;
+    height: 1px;
+}
+.antDesigngoogleCircleFilleIcon {
+    position: absolute;
+    top: 0px;
+    left: 50px;
+    width: 42px;
+    height: 42px;
+    overflow: hidden;
+}
+.entypoSocialfacebookWithCiIcon {
+    position: absolute;
+    top: 1px;
+    left: 0px;
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+}
+.antDesigngoogleCircleFilleParent {
+    position: absolute;
+    top: 337px;
+    left: 218px;
+    width: 92px;
+    height: 42px;
+}
+.loginLight {
+    width: 100%;
+    position: relative;
+    height: 400px;
+    text-align: left;
+    font-size: var(--font-size-mini);
+    color: var(--color-white);
+    font-family: var(--font-inter);
+}
+

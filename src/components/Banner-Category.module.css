@@ -1,0 +1,132 @@
+.bannerBackgroundIcon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 166px;
+    object-fit: cover;
+}
+.truyn1 {
+    margin: 0;
+}
+.truyn {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 79.1px;
+}
+.lastUpdated03042024 {
+    position: absolute;
+    top: 0px;
+    left: 144.91px;
+    display: inline-block;
+    width: 165px;
+}
+.truynParent {
+    position: absolute;
+    top: 99px;
+    left: 1.11px;
+    width: 309.9px;
+    height: 30px;
+    font-size: 12px;
+}
+.thLoi {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 70.2px;
+}
+.image3Icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 5px;
+    width: 319px;
+    height: 50px;
+    object-fit: cover;
+}
+.amMChild {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 0px 5px 5px 0px;
+    background-color: rgba(255, 255, 255, 0.7);
+}
+.amM1 {
+    position: absolute;
+    width: 69.62%;
+    top: 34%;
+    left: 17.73%;
+    font-weight: 500;
+    display: inline-block;
+}
+.amM {
+    position: absolute;
+    top: 0px;
+    left: 240.97px;
+    border-radius: 5px;
+    width: 81.3px;
+    height: 50px;
+}
+.leftTopBanner {
+    position: absolute;
+    top: 30px;
+    left: 1.11px;
+    width: 322.3px;
+    height: 50px;
+    color: #000;
+}
+.leftBanner {
+    position: absolute;
+    top: 23px;
+    left: 119px;
+    width: 323.4px;
+    height: 129px;
+}
+.rightBannerChild {
+    position: absolute;
+    top: 30px;
+    left: 0px;
+    border-radius: 10px;
+    background-color: rgba(7, 156, 189, 0.72);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border: 1px solid #07c2eb;
+    box-sizing: border-box;
+    width: 720px;
+    height: 50px;
+    opacity: 0.9;
+}
+.truynTnhCm {
+    position: absolute;
+    top: 47px;
+    left: 22px;
+    font-weight: 500;
+}
+.thngTinTh {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.rightBanner {
+    position: absolute;
+    top: 23px;
+    left: 600px;
+    width: 720px;
+    height: 80px;
+}
+.banner {
+    width: 100%;
+    position: relative;
+    height: 166px;
+    text-align: left;
+    font-size: 14px;
+    color: #fff;
+    font-family: 'Kumbh Sans';
+}
+

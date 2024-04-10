@@ -1,0 +1,447 @@
+.image1Icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 500px;
+    object-fit: cover;
+}
+.truynHay {
+    position: absolute;
+    top: 18px;
+    left: 55px;
+}
+.image2Icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 310px;
+    height: 412px;
+    object-fit: cover;
+}
+.tnhYuNng {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.tnhYuNngChoyWrapper {
+    position: absolute;
+    top: 310px;
+    left: 31px;
+    width: 190px;
+    height: 34px;
+    font-size: 24px;
+    font-family: 'Jockey One';
+}
+.chap30 {
+    position: absolute;
+    top: 1px;
+    left: 20px;
+    white-space: pre-wrap;
+}
+.ht {
+    position: absolute;
+    top: 1px;
+    left: 84px;
+}
+.mingcutepaperFillIcon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+}
+.chap30Parent {
+    position: absolute;
+    top: 351px;
+    left: 13px;
+    width: 123px;
+    height: 20px;
+}
+.div {
+    position: absolute;
+    top: 0px;
+    left: 20px;
+}
+.mdiclipboardTextDateParent {
+    position: absolute;
+    top: 378px;
+    left: 15px;
+    width: 111px;
+    height: 20px;
+}
+.div1 {
+    position: absolute;
+    top: 0px;
+    left: 25px;
+}
+.views {
+    position: absolute;
+    top: 0px;
+    left: 105px;
+}
+.carbonviewFilledParent {
+    position: absolute;
+    top: 351px;
+    left: 155px;
+    width: 149px;
+    height: 20px;
+}
+.div2 {
+    position: absolute;
+    top: 1px;
+    left: 25px;
+}
+.theoDi {
+    position: absolute;
+    top: 1px;
+    left: 57px;
+}
+.mingcuteuserFollowFillParent {
+    position: absolute;
+    top: 378px;
+    left: 155px;
+    width: 124px;
+    height: 20px;
+}
+.image2Parent {
+    position: absolute;
+    top: 62px;
+    left: 55px;
+    border-radius: 10px;
+    background-color: #fff;
+    width: 310px;
+    height: 412px;
+    overflow: hidden;
+}
+.groupChild {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 5px;
+    width: 200px;
+    height: 285px;
+    object-fit: cover;
+}
+.mingcuteuserFollowFillIcon1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 5px;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+}
+.b {
+    position: absolute;
+    top: 0px;
+    left: 24px;
+}
+.mingcuteuserFollowFillGroup {
+    position: absolute;
+    top: 256px;
+    left: 120px;
+    width: 51px;
+    height: 20px;
+}
+.carbonviewFilledGroup {
+    position: absolute;
+    top: 256px;
+    left: 17px;
+    width: 93px;
+    height: 20px;
+}
+.rectangleParent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 200px;
+    height: 285px;
+}
+.cuB {
+    position: absolute;
+    top: 0px;
+    left: 4px;
+    font-size: 16px;
+}
+.mdiclipboardTextDateIcon1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 5px;
+    width: 18px;
+    height: 18px;
+    overflow: hidden;
+}
+.b2 {
+    position: absolute;
+    top: 1px;
+    left: 18px;
+}
+.mdiclipboardTextDateGroup {
+    position: absolute;
+    top: 25px;
+    left: 122px;
+    width: 78px;
+    height: 18px;
+}
+.chap20 {
+    position: absolute;
+    top: 1px;
+    left: 20px;
+}
+.ht1 {
+    position: absolute;
+    top: 1px;
+    left: 76px;
+}
+.mingcutepaperFillParent {
+    position: absolute;
+    top: 25px;
+    left: 0px;
+    width: 110px;
+    height: 18px;
+}
+.cuBParent {
+    position: absolute;
+    top: 290px;
+    left: 0px;
+    width: 200px;
+    height: 43px;
+    font-size: 14px;
+}
+.groupParent {
+    position: absolute;
+    top: 1px;
+    left: 0px;
+    width: 200px;
+    height: 333px;
+}
+.mingcuteuserFollowFillContainer {
+    position: absolute;
+    top: 258px;
+    left: 120px;
+    width: 51px;
+    height: 20px;
+}
+.carbonviewFilledContainer {
+    position: absolute;
+    top: 258px;
+    left: 16px;
+    width: 93px;
+    height: 20px;
+}
+.groupContainer {
+    position: absolute;
+    top: 1px;
+    left: 243px;
+    width: 200px;
+    height: 333px;
+}
+.groupDiv {
+    position: absolute;
+    top: 1px;
+    left: 2187px;
+    width: 200px;
+    height: 333px;
+}
+.mingcuteuserFollowFillParent2 {
+    position: absolute;
+    top: 257px;
+    left: 123px;
+    width: 51px;
+    height: 20px;
+}
+.carbonviewFilledParent2 {
+    position: absolute;
+    top: 257px;
+    left: 18px;
+    width: 93px;
+    height: 20px;
+}
+.mingcutepaperFillParent1 {
+    position: absolute;
+    top: 25px;
+    left: 0px;
+    width: 75px;
+    height: 18px;
+}
+.cuBBnDimParent {
+    position: absolute;
+    top: 291px;
+    left: 0px;
+    width: 200px;
+    height: 43px;
+    font-size: 14px;
+}
+.groupParent1 {
+    position: absolute;
+    top: 0px;
+    left: 486px;
+    width: 200px;
+    height: 334px;
+}
+.groupParent2 {
+    position: absolute;
+    top: 1px;
+    left: 2430px;
+    width: 200px;
+    height: 334px;
+}
+.mingcuteuserFollowFillIcon6 {
+    position: absolute;
+    top: 1px;
+    left: 0px;
+    border-radius: 5px;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+}
+.mingcuteuserFollowFillParent4 {
+    position: absolute;
+    top: 258px;
+    left: 131px;
+    width: 51px;
+    height: 21px;
+}
+.carbonviewFilledParent4 {
+    position: absolute;
+    top: 258px;
+    left: 17px;
+    width: 93px;
+    height: 20px;
+}
+.groupParent3 {
+    position: absolute;
+    top: 1px;
+    left: 729px;
+    width: 200px;
+    height: 333px;
+}
+.groupParent4 {
+    position: absolute;
+    top: 2px;
+    left: 2673px;
+    width: 200px;
+    height: 333px;
+}
+.mingcuteuserFollowFillParent6 {
+    position: absolute;
+    top: 257px;
+    left: 125px;
+    width: 51px;
+    height: 20px;
+}
+.mingcutepaperFillParent5 {
+    position: absolute;
+    top: 25px;
+    left: 0px;
+    width: 80px;
+    height: 18px;
+}
+.groupParent5 {
+    position: absolute;
+    top: 0px;
+    left: 972px;
+    width: 200px;
+    height: 334px;
+}
+.mingcuteuserFollowFillParent7 {
+    position: absolute;
+    top: 256px;
+    left: 127px;
+    width: 51px;
+    height: 20px;
+}
+.carbonviewFilledParent7 {
+    position: absolute;
+    top: 256px;
+    left: 15px;
+    width: 93px;
+    height: 20px;
+}
+.groupParent6 {
+    position: absolute;
+    top: 1px;
+    left: 1215px;
+    width: 200px;
+    height: 333px;
+}
+.mingcuteuserFollowFillParent8 {
+    position: absolute;
+    top: 259px;
+    left: 123px;
+    width: 51px;
+    height: 20px;
+}
+.carbonviewFilledParent8 {
+    position: absolute;
+    top: 259px;
+    left: 18px;
+    width: 93px;
+    height: 20px;
+}
+.groupParent7 {
+    position: absolute;
+    top: 1px;
+    left: 1458px;
+    width: 200px;
+    height: 333px;
+}
+.mingcuteuserFollowFillParent9 {
+    position: absolute;
+    top: 256px;
+    left: 124px;
+    width: 51px;
+    height: 20px;
+}
+.carbonviewFilledParent9 {
+    position: absolute;
+    top: 256px;
+    left: 20px;
+    width: 93px;
+    height: 20px;
+}
+.groupParent8 {
+    position: absolute;
+    top: 1px;
+    left: 1701px;
+    width: 200px;
+    height: 333px;
+}
+.groupParent9 {
+    position: absolute;
+    top: 1px;
+    left: 1944px;
+    width: 200px;
+    height: 333px;
+}
+.groupSlider {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 2873px;
+    height: 335px;
+}
+.imageSliderLinh {
+    position: absolute;
+    top: 81px;
+    left: 415px;
+    width: 929px;
+    height: 335px;
+    overflow: hidden;
+    font-family: 'Kumbh Sans';
+}
+.image1Parent {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 500px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #fff;
+    font-family: Inter;
+}
+

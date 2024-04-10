@@ -1,0 +1,323 @@
+.groupChild {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 720px);
+    background-color: #156d79;
+    width: 1440px;
+    height: 45px;
+}
+.lchS {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 27.5px);
+    display: inline-block;
+    width: 55px;
+    height: 15px;
+}
+.lchSWrapper {
+    position: absolute;
+    top: 15px;
+    left: calc(50% - 169px);
+    width: 55px;
+    height: 15px;
+    text-align: center;
+}
+.mingcutedownLineIcon {
+    position: absolute;
+    top: 3px;
+    left: calc(50% + 13.45px);
+    width: 10px;
+    height: 10px;
+    overflow: hidden;
+}
+.xpHng {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 37.55px);
+    display: inline-block;
+    width: 75.1px;
+    height: 15px;
+}
+.mingcutedownLineParent {
+    position: absolute;
+    top: 15px;
+    left: calc(50% - 244px);
+    width: 75.1px;
+    height: 15px;
+}
+.mingcutedownLine {
+    position: absolute;
+    top: 0.25px;
+    left: calc(50% + 23.13px);
+    width: 29.1px;
+    height: 18px;
+    overflow: hidden;
+}
+.tcGi {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 52.25px);
+    display: inline-block;
+    width: 64.4px;
+    height: 15px;
+}
+.mingcutedownLineGroup {
+    position: absolute;
+    top: 14.63px;
+    left: calc(50% - 311px);
+    width: 104.5px;
+    height: 18.3px;
+    font-size: 13px;
+}
+.thLoi {
+    width: 64px;
+    position: relative;
+    display: inline-block;
+    height: 15.8px;
+    flex-shrink: 0;
+    z-index: 0;
+}
+.mingcutedownLineIcon1 {
+    width: 10px;
+    position: absolute;
+    margin: 0 !important;
+    top: 4px;
+    left: calc(50% + 18px);
+    height: 10px;
+    overflow: hidden;
+    flex-shrink: 0;
+    z-index: 1;
+}
+.thLoiParent {
+    position: absolute;
+    top: 14.63px;
+    left: 334px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 10px;
+    font-size: 13px;
+}
+.groupItem {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 130px);
+    border-radius: 7px;
+    background-color: #fff;
+    box-shadow: 0px 4px 14px #e5e5e5;
+    width: 260px;
+    height: 30px;
+}
+.mingcutesearchLineIcon {
+    position: absolute;
+    top: 6.5px;
+    left: calc(50% - 117px);
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+}
+.tmKim {
+    position: absolute;
+    top: 8.5px;
+    left: calc(50% - 96px);
+    display: inline-block;
+    width: 96.8px;
+    height: 11.2px;
+    opacity: 0.8;
+}
+.rectangleGroup {
+    position: absolute;
+    top: 7.5px;
+    left: calc(50% + 340px);
+    width: 260px;
+    height: 30px;
+    color: #c4c4c4;
+    font-family: Roboto;
+}
+.gameIconswhiteBook {
+    position: absolute;
+    top: 7.5px;
+    left: calc(50% - 601px);
+    width: 41px;
+    height: 30px;
+    overflow: hidden;
+}
+.truyen0ptit {
+    position: absolute;
+    top: 13px;
+    left: calc(50% - 562px);
+    font-size: 20px;
+    display: inline-block;
+    font-family: Kufam;
+    width: 144.9px;
+    height: 27.3px;
+}
+.rectangleParent {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 720px);
+    width: 1440px;
+    height: 45px;
+}
+.headerBottom {
+    position: absolute;
+    top: 27px;
+    left: calc(50% - 720px);
+    width: 1440px;
+    height: 45px;
+}
+.headerTopChild {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    background-color: #187d8b;
+    height: 28px;
+}
+.shareChild {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    border-radius: 5px;
+    background-color: #1877f2;
+    height: 20px;
+}
+.chiaS {
+    position: absolute;
+    width: calc(100% - 22.3px);
+    top: 2.97px;
+    left: 11px;
+    display: inline-block;
+    height: 13.8px;
+}
+.share {
+    position: absolute;
+    width: calc(100% - 188px);
+    top: 0px;
+    right: 0px;
+    left: 188px;
+    height: 20px;
+}
+.eilikeIcon {
+    position: absolute;
+    top: 0px;
+    left: 5px;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+}
+.thch {
+    position: absolute;
+    top: 3px;
+    left: 25px;
+    display: inline-block;
+    width: 40.7px;
+}
+.m {
+    position: absolute;
+    top: 3px;
+    left: 58px;
+    display: inline-block;
+    width: 26.7px;
+}
+.bottomLike {
+    position: absolute;
+    width: calc(100% - 159px);
+    top: 0px;
+    right: 63px;
+    left: 96px;
+    height: 20px;
+}
+.facebookChild {
+    position: absolute;
+    width: calc(100% - 23px);
+    top: 0px;
+    right: 23px;
+    left: 0px;
+    border-radius: 5px;
+    background-color: #1877f2;
+    height: 20px;
+}
+.evafacebookFillIcon {
+    position: absolute;
+    width: calc(100% - 95px);
+    top: 0px;
+    right: 89px;
+    left: 6px;
+    border-radius: 5px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 19.8px;
+}
+.optitTeam {
+    position: absolute;
+    width: calc(100% - 23px);
+    top: 4.7px;
+    left: 23px;
+    display: inline-block;
+    height: 11.9px;
+}
+.facebook {
+    position: absolute;
+    width: calc(100% - 133px);
+    top: 0px;
+    right: 133px;
+    left: 0px;
+    height: 20px;
+}
+.button {
+    position: absolute;
+    width: calc(100% - 1192px);
+    top: 4px;
+    right: 120px;
+    left: 1072px;
+    height: 20px;
+}
+.ngNhp {
+    position: absolute;
+    width: calc(100% - 1361px);
+    top: 6.61px;
+    left: 997px;
+    display: inline-block;
+    height: 14.8px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.iuKhonS {
+    position: absolute;
+    top: 8.94px;
+    left: 120px;
+    font-family: Inter;
+    display: inline-block;
+    width: 141px;
+    height: 10.1px;
+}
+.phmoonFillIcon {
+    position: absolute;
+    top: 5px;
+    left: 973px;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+}
+.headerTop {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    height: 28px;
+}
+.header {
+    width: 100%;
+    position: relative;
+    height: 72px;
+    text-align: left;
+    font-size: 11px;
+    color: #fff;
+    font-family: 'Kumbh Sans';
+}
+
